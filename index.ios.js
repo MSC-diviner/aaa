@@ -28,6 +28,7 @@ var vMargin1 = (w - cellWidth1*cols)/(cols+1);
 var hMargin = 25;
 //导入数据
 var my = "123546";
+var myApp= "nizhenshishabi";
 var shareData = require("./img.json");
 var shareData1 = require("./img1.json");
 var HomeWork = React.createClass({
